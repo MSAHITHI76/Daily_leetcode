@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
@@ -47,4 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
