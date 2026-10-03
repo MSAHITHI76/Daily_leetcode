@@ -1,0 +1,26 @@
+import java.util.Stack;
+
+class Solution {
+    public int longestValidParentheses(String s) {
+        int maxLen = 0;
+        Stack<Integer> stack = new Stack<>();
+        
+        // Push -1 as the base boundary index
+        stack.push(-1);
+        
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(') {
+                stack.push(i);
+            } else {
+                stack.pop();
+                if (stack.isEmpty()) {
+                    stack.push(i); // Update boundary index for unmatched ')'
+                } else {
+                    maxLen = Math.max(maxLen, i - stack.peek());
+                }
+            }
+        }
+        
+        return maxLen;
+    }
+}
