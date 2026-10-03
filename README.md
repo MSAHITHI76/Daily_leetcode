@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0052-n-queens-ii) |
 | [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
