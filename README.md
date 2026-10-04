@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0174-dungeon-game](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3660-jump-game-ix) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0678-valid-parenthesis-string) |
+## Math
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
