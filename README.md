@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0174-dungeon-game](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [2553-separate-the-digits-in-an-array](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3660-jump-game-ix) |
 ## Dynamic Programming
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
