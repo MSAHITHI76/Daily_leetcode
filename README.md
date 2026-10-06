@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0089-gray-code) |
 | [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0089-gray-code) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
