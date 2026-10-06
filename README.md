@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2784-check-if-array-is-good) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3660-jump-game-ix) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0678-valid-parenthesis-string](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3660-jump-game-ix) |
 ## Matrix
 |  |
