@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0052-n-queens-ii) |
 | [0089-gray-code](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sorting
