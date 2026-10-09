@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -141,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
