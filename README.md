@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0089-gray-code) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
