@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0224-basic-calculator) |
 | [0301-remove-invalid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0856-score-of-parentheses) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0224-basic-calculator](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0856-score-of-parentheses) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0089-gray-code) |
+| [0224-basic-calculator](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0224-basic-calculator) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0225-implement-stack-using-queues) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
