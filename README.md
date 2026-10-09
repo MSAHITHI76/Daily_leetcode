@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0231-power-of-two) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
