@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3660-jump-game-ix) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2784-check-if-array-is-good) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Algorithm X
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
