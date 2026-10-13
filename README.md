@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/0290-word-pattern) |
 | [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 | [2784-check-if-array-is-good](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2784-check-if-array-is-good) |
