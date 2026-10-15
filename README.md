@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3660-jump-game-ix) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/1096-brace-expansion-ii) |
 | [2784-check-if-array-is-good](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Backtracking
 |  |
@@ -186,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MSAHITHI76/Daily_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
